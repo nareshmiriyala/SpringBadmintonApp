@@ -1,0 +1,7 @@
+${application.version}
+${application.formatted-version}
+${spring-boot.version}
+${spring-boot.formatted-version}
+${Ansi.RED}
+${AnsiBackground.NAME}
+${AnsiStyle.NAME})
